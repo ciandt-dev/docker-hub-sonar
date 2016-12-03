@@ -1,4 +1,4 @@
-FROM sonarqube:5.4
+FROM sonarqube:6.1
 
 # define Docker image label information
 LABEL com.ciandt.vendor="CI&T Software SA" \
@@ -48,5 +48,5 @@ RUN mkdir --parents /root/ciandt
 COPY ciandt /root/ciandt
 
 # configure Sonar to use HTTPS only
-RUN cd /root/ciandt && \
-    make configure-https
+# RUN cd /root/ciandt && \
+#     make configure-https

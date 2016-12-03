@@ -12,17 +12,22 @@ Basically, this image utilizes [SonarQube official Docker image](https://hub.doc
 
 These are the plugins bundled.
 
-- [Android 1.1](https://github.com/SonarQubeCommunity/sonar-android)
-- [Csharp 5.2](http://docs.sonarqube.org/display/PLUG/C%23+Plugin)
-- [CSS](https://github.com/SonarQubeCommunity/sonar-css)
-- [Java 3.13.1](http://docs.sonarqube.org/display/PLUG/Java+Plugin)
-- [Javascript 2.11](http://docs.sonarqube.org/display/PLUG/JavaScript+Plugin)
-- [LDAP 1.5.1](http://docs.sonarqube.org/display/PLUG/LDAP+Plugin)
-- [PhP 2.8](http://docs.sonarqube.org/display/PLUG/PHP+Plugin)
-- [Resharper 2.0](http://docs.sonarqube.org/display/PLUG/ReSharper+Plugin)
-- [Stylecop 1.1](http://docs.sonarqube.org/pages/viewpage.action?pageId=1441942)
-- [Web-frontend-scss-2.0-SNAPSHOT](http://docs.sonarqube.org/display/PLUG/Web+Plugin)
-- [Widget-lab 1.8.1](http://docs.sonarqube.org/display/DEV/Build+Plugin)
+| Plugin | Version |
+| ------ | ------- |
+| [Android](https://github.com/SonarQubeCommunity/sonar-android) | 1.1 |
+| [Bitbucket Authenticatior](https://github.com/SonarQubeCommunity/sonar-auth-bitbucket/releases) | 1.0 |
+| [C#](http://docs.sonarqube.org/display/PLUG/C%23+Plugin) | 5.5.0.479 |
+| [CSS](https://github.com/racodond/sonar-css-plugin/releases) | 2.3 |
+| [Github](http://docs.sonarqube.org/display/PLUG/GitHub+Plugin) | 1.3 |
+| [Github Authenticatior](http://docs.sonarqube.org/display/PLUG/GitHub+Authentication+Plugin) | 1.3 |
+| [Java](http://docs.sonarqube.org/display/PLUG/Java+Plugin) | 4.2.1 |
+| [Javascript](http://docs.sonarqube.org/display/PLUG/JavaScript+Plugin) | 2.18 |
+| [LDAP](http://docs.sonarqube.org/display/PLUG/LDAP+Plugin) | 2.1 |
+| [PhP](http://docs.sonarqube.org/display/PLUG/PHP+Plugin) | 2.9.1 |
+| [Resharper](http://docs.sonarqube.org/display/PLUG/ReSharper+Plugin) | 2.0 |
+| [Stylecop](http://docs.sonarqube.org/pages/viewpage.action?pageId=1441942) | 1.1 |
+| [Web-frontend-scss](http://docs.sonarqube.org/display/PLUG/Web+Plugin) | 2.0 |
+| [Widget-lab](http://docs.sonarqube.org/display/DEV/Build+Plugin) | 1.8.1 |
 
 * * *
 
