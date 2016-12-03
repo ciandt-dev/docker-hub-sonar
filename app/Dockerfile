@@ -45,7 +45,3 @@ ENV SONAR_PROPERTIES_FILE=${SONARQUBE_HOME}/conf/sonar.properties
 # copy scripts
 RUN mkdir --parents /root/ciandt
 COPY ciandt /root/ciandt
-
-# configure Sonar to use HTTPS only
-# RUN cd /root/ciandt && \
-#     make configure-https
